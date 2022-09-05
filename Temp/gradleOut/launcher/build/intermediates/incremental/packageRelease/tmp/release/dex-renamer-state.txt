@@ -1,0 +1,4 @@
+#Mon Sep 05 12:37:30 MSK 2022
+base.0=C\:\\app\\arcore5s\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
